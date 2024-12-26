@@ -18,11 +18,11 @@ GPT-4开放了强大的插件接口，让您可以根据个人需求和行业特
 
 目前国内银行卡是支付不了的，国内可以用IOS端支付宝礼品卡支付，但是相对来说比较麻烦，还需要苹果手机。
 
-[这里我使用的虚拟卡平台Fomepay，这个平台可以创建国外银行卡支付，其操作简单，费率低，相对Depay等只能使用虚拟货币的平台，这个平台可以直接使用支付宝支付，且所有信息均加密处理，保障信息安全。](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+[这里我使用的虚拟卡平台Fomepay，这个平台可以创建国外银行卡支付，其操作简单，费率低，相对Depay等只能使用虚拟货币的平台，这个平台可以直接使用支付宝支付，且所有信息均加密处理，保障信息安全。](https://bit.ly/bewildcard)
 
-[点我办卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+[点我办卡](https://bit.ly/bewildcard)
 
-![image](https://github.com/cynthiamitchellhenry1/Plus/assets/169963100/b79a234e-2809-4c71-94e9-f83761d04577)
+![image](https://github.com/user-attachments/assets/e6b5c08a-88aa-4d7c-b16a-e4f79adb1ee9)
 
 
 **办完卡后：**
